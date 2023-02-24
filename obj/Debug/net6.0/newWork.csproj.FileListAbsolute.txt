@@ -1,0 +1,15 @@
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\bin\Debug\net6.0\newWork.exe
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\bin\Debug\net6.0\newWork.deps.json
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\bin\Debug\net6.0\newWork.runtimeconfig.json
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\bin\Debug\net6.0\newWork.dll
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\bin\Debug\net6.0\newWork.pdb
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\obj\Debug\net6.0\newWork.csproj.AssemblyReference.cache
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\obj\Debug\net6.0\newWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\obj\Debug\net6.0\newWork.AssemblyInfoInputs.cache
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\obj\Debug\net6.0\newWork.AssemblyInfo.cs
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\obj\Debug\net6.0\newWork.csproj.CoreCompileInputs.cache
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\obj\Debug\net6.0\newWork.dll
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\obj\Debug\net6.0\refint\newWork.dll
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\obj\Debug\net6.0\newWork.pdb
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\obj\Debug\net6.0\newWork.genruntimeconfig.cache
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\newWork\obj\Debug\net6.0\ref\newWork.dll
